@@ -1,0 +1,83 @@
+{
+    "Categories": {
+        "1": "Alimentos",
+        "2": "Automoviles",
+        "3": "Computadoras"
+    },
+    "brands": {
+        "1": "Carnes Americanas",
+        "2": "Carnes Castilianas",
+        "3": "Carnes Francesas",
+        "4": "Carnes Mexicanas",
+        "5": "Carnes Italianas",
+        "6": "Honda",
+        "7": "Toyota",
+        "8": "Nissan",
+        "9": "Chevrolet",
+        "10": "Fiat",
+        "11": "Asus",
+        "12": "Acer",
+        "13": "Lenovo",
+        "14": "HP",
+        "15": "Dell"
+    },
+    "products": {
+        "1": {
+            "id": 1,
+            "name": "Carnes",
+            "description": "Carnes",
+            "category": 1,
+            "brands": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        "2": {
+            "id": 2,
+            "name": "Turismos",
+            "description": "Autos",
+            "category": 2,
+            "brands": [
+                6,
+                7,
+                10
+            ]
+        },
+        "3": {
+            "id": 3,
+            "name": "Todo terreno",
+            "description": "Todo terreno",
+            "category": 2,
+            "brands": [
+                8,
+                9,
+                10
+            ]
+        },
+        "4": {
+            "id": 4,
+            "name": "Laptops",
+            "description": "Laptops",
+            "category": 3,
+            "brands": [
+                11,
+                12,
+                13
+            ]
+        },
+        "5": {
+            "id": 5,
+            "name": "Desktop",
+            "description": "Desktop",
+            "category": 3,
+            "brands": [
+                13,
+                14,
+                15
+            ]
+        }
+    }
+}
