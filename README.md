@@ -1,7 +1,13 @@
 # TestAPI
 
 To run the proyect first do:
-### ```npm install```
+
+```
+npm install
+```
 
 then do:
-### ````node index.js```
+
+```
+node index.js
+```
